@@ -153,10 +153,10 @@ for (let i = 0 ; i < fujiTons.length ; i++){
 let galaTons = galaAcres.slice()
 for (let i = 0 ; i < galaTons.length ; i++){
     galaTons[i] *= 6.5;
-} console.log(fujiTons)
+} console.log(galaTons)
 
 let pinkTons = pinkAcres.slice()
-for (let i = 0 ; i < galaTons.length; i++){
+for (let i = 0 ; i < pinkTons.length; i++){
     pinkTons[i] *= 6.5;
 } console.log(pinkTons)
 
